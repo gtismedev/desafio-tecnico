@@ -1,6 +1,6 @@
 # 🕹️ Desafio Técnico 
 
-Bem-vindo(a) ao desafio técnico do GTI! Este desafio tem como objetivo avaliar sua familiaridade com lógica de programação e criatividade e resolução de problemas.
+Bem-vindo(a) ao desafio técnico do GTI! Este desafio tem como objetivo avaliar sua familiaridade com lógica de programação, criatividade e resolução de problemas.
 
 ## 🎯 Objetivo
 
