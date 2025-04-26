@@ -1,4 +1,4 @@
-# 🕹️ Desafio Técnico 
+# 🕹️ Desafio Técnico
 
 Bem-vindo(a) ao desafio técnico do GTI! Este desafio tem como objetivo avaliar sua familiaridade com lógica de programação, criatividade e resolução de problemas.
 
@@ -34,7 +34,7 @@ Procure por personagens 2D, tilesets de plataforma e background simples.
 
 Veja abaixo um exemplo animado de como o seu jogo pode se parecer:
 
-![Exemplo de Jogo Plataforma](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRpYjlnZ2Q3YmxoNTZrN3ZwbGVkbnI5dmR5Y2Jhdmc4M2M2dzN6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YkT66QhvDj2sKs/giphy.gif)
+![Exemplo de Jogo Plataforma](assets/eod.gif)
 
 > **Nota**: O GIF acima é apenas uma referência visual. Sinta-se livre para usar seu estilo próprio!
 
@@ -51,4 +51,4 @@ O prazo para entrega será informado no e-mail ou número de contato.
 
 ---
 
-Boa sorte! Estamos animados para ver sua criatividade em ação! 🚀  
+Boa sorte! Estamos animados para ver sua criatividade em ação! 🚀
